@@ -5,4 +5,4 @@
 * [Club Constitution](club-constitution.md)
 * [Bylaws](bylaws/README.md)
   * [Bylaws Addenda](bylaws/bylaws-addenda.md)
-* [Lions Clubs International Errata](lions-clubs-international-errata.md)
+* [Lions Clubs International Extra](lions-clubs-international-extra.md)
