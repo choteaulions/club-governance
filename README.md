@@ -7,7 +7,7 @@ PO Box 633\
 Choteau, MT 59422\
 [https://choteaulions.club/](https://choteaulions.club/)
 
-### Current Officers
+### Current Officers and Board Members
 
 Our 2024 officers are:
 
@@ -18,13 +18,5 @@ Our 2024 officers are:
 * [Secretary](https://app.gitbook.com/s/TLv6bYyHneMPHZmgJ8Nk/officers-handbooks/officers/secretary): Tom Rogers
 * [Treasurer](https://app.gitbook.com/s/TLv6bYyHneMPHZmgJ8Nk/officers-handbooks/officers/treasurer): Steve Dogiakos
 * [Deputy Treasurer](https://app.gitbook.com/s/TLv6bYyHneMPHZmgJ8Nk/officers-handbooks/officers/treasurer/deputy-treasurer): Greg Maurer
-* Membership Chair:
-* Service Chair:
-* Marketing Chair:
-* Program Coordinator:
-* Club LCIF Coordinator:
-* Safety Officer:
-* Tail Twister:
-* Lion Tamer:
-* Director:
-* Director:
+* Director: Clayton Ketcham
+* Director: Yvonne Geisel
