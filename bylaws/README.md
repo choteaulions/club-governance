@@ -1,5 +1,5 @@
 ---
-description: As approved May 6, 2024
+description: As approved by the membership at the Choteau Lions Club Meeting May 6, 2024
 ---
 
 # Bylaws
@@ -21,9 +21,12 @@ Section 1. MEMBERSHIP CATEGORIES
    \
    An Associate Member may be eligible to vote on club matters, at meetings where they are present in person, but may not represent the club as a delegate at district (single, sub-, provisional and/or multiple) or international conventions. They shall not be eligible to hold club, district or international office, nor district, multiple district or international committee assignments through this club. International and district (single, sub-, provisional and/or multiple) dues shall not be assessed on the Associate; PROVIDED, however, nothing shall prevent this club from assessing an Associate such dues as it shall deem proper. This membership category shall not be included in the club delegate formula calculation.
 7. AFFILIATE MEMBER: A quality individual of the community who currently is not able to fully participate as an Active member of the club but desires to support the club and its community service initiatives and be affiliated with the club. This status may be conferred by the invitation of the club’s board of directors.\
+   \
    An Affiliate Member may be eligible to vote on club matters at meetings where they are present in person, but may not represent the club as a delegate at district (single, sub, provisional, and/or multiple) or international conventions.\
-   They shall not be eligible to hold club, district or international office, nor district, multiple district or international committee assignment. An Affiliate Member shall be required to pay district, international and such dues as the local club may charge. This membership category shall be included in the club delegate formula calculation.
-8. DISCOUNTED MEMBER: A member of this club who pays discounted dues as a result of their family membership status, student status or participation in any other discounted membership program offered by the association who desires to retain membership in this club and meets the qualifications for discounted dues. The membership status shall be verified by the board of directors of this club. A Discounted Member shall be eligible to hold office in district or international meetings, but shall pay such dues as the local club may charge, which dues shall include district and international dues. This membership category shall not be included in the club delegate formula calculation.
+   \
+   They shall not be eligible to hold club, district or international office, nor district, multiple district or international committee assignment. An Affiliate Member shall be required to pay district, international and such dues as the local club may charge. This membership category shall be included in the club delegate formula calculation.\
+
+8. &#x20;DISCOUNTED MEMBER: A member of this club who pays discounted dues as a result of their family membership status, student status or participation in any other discounted membership program offered by the association who desires to retain membership in this club and meets the qualifications for discounted dues. The membership status shall be verified by the board of directors of this club. A Discounted Member shall be eligible to hold office in district or international meetings, but shall pay such dues as the local club may charge, which dues shall include district and international dues. This membership category shall not be included in the club delegate formula calculation.
 
 Section 2. GOOD STANDING. Any member who fails to pay any indebtedness due this club within thirty (30) days after receipt of written notice from the secretary shall forfeit their good standing and shall so remain until such indebtedness is paid in full. Only members in good standing may exercise the voting privilege and hold office in this club.
 
@@ -43,9 +46,9 @@ Section 8. ATTENDANCE AND PARTICIPATION. The club shall encourage regular partic
 
 The officers of this club, excluding the immediate past president, shall be elected as follows:
 
-Section 1. BIENNIAL ELECTION. Subject to the provisions of Sections 7 and 8 of this Article, all officers and members of the board, other than directors, shall be elected biennially and shall take office on July 1st, and shall hold office for one year from that date, or until their successors shall have been elected and qualified.  The Secretary shall promptly report the newly elected officers to the International Office within 15 days of the election.
+Section 1. BIENNIAL ELECTION. Subject to the provisions of Sections 7 and 8 of this Article, all officers and members of the board, other than directors, shall be elected annually and shall take office on July 1st, and shall hold office for two years from that date, or until their successors shall have been elected and qualified.  The Secretary shall promptly report the newly elected officers to the International Office within 15 days of the election.
 
-Section 2. DIRECTORS ELECTION. One-half of the directors shall be elected biennially and shall take office on the July 1st next following their election, and shall hold office for four (4) years from that time, or until their successors shall have been elected and qualified, with the exception that at the first election held after the adoption of this constitution and by-laws, one-half of the directors shall be elected for two year terms and the other one-half of the directors shall be elected for one year terms.
+Section 2. DIRECTORS ELECTION. One-half of the directors shall be elected biennially and shall take office on the July 1st next following their election, and shall hold office for four (4) years from that time, or until their successors shall have been elected and qualified. The other half shall be elected the alternate elections so that their terms are staggered from one-half of the directors to the other.
 
 Section 3. ELIGIBILITY FOR OFFICE. No person shall be eligible to hold office in this club unless they are an active member in good standing.
 
@@ -53,7 +56,7 @@ Section 4. NOMINATING COMMITTEE. The president shall appoint a nominating commit
 
 Section 5. NOMINATION MEETING. A nomination meeting shall be held in March of each year or as determined by the board of directors, with the date and place of such meeting to be determined by the board of directors. Notice of the meeting shall be published by regular post or electronic means or by personal delivery to each member of this club at least fourteen (14) calendar days prior to the date of the meeting.
 
-Section 6. ELECTION. An election shall be held in April or as determined by the board of directors, at a time and place determined by the board of directors.  Notice of the election shall be published by regular post or electronic means or by personal delivery to each member of the club at least fourteen (14) calendar days prior the date of the election. Such notice shall include the names of all nominees approved at the preceding nomination meeting, and, subject to Section 3 above, a statement that these nominees will be voted upon at this election. No nominations may be made from the floor at the election.
+Section 6. ELECTION. An election shall be held during the first meeting in April or as determined by the board of directors, at a time and place determined by the board of directors.  Notice of the election shall be published by regular post or electronic means or by personal delivery to each member of the club at least fourteen (14) calendar days prior the date of the election. Such notice shall include the names of all nominees approved at the preceding nomination meeting, and, subject to Section 3 above, a statement that these nominees will be voted upon at this election. No nominations may be made from the floor at the election.
 
 Section 7. BALLOT. The election shall be conducted by a secret written ballot by those present and qualified to vote.
 
@@ -71,7 +74,7 @@ Section 11. REPLACEMENT OF OFFICERS-ELECT. In the event any officer-elect, befor
 
 ### ARTICLE III Duties of Officers
 
-Section 1. PRESIDENT.  The responsibilities for this position shall be as follows:  &#x20;
+Section 1. PRESIDENT. The responsibilities for this position shall be as follows:  &#x20;
 
 1. Serve as chief executive officer for this club.&#x20;
 2. Preside at all meetings of the board of directors of this club.
@@ -80,7 +83,8 @@ Section 1. PRESIDENT.  The responsibilities for this position shall be as follow
 5. Ensure regular meetings to discuss and advance initiatives established by the Global Action Team.&#x20;
 6. Collaborate with the district Global Action Team and other club presidents to further initiatives focused on expanding humanitarian service, leadership development and membership growth.&#x20;
 7. In collaboration with the club officers and committee chairpersons, implement a plan for membership growth, community engagement, operational improvement and the fulfillment of humanitarian services as presented and approved by the club’s board of directors.
-8. Issue the call for regular meetings and special meetings of the board of directors of this club.
+8. Issue the call for regular meetings and special meetings of the board of directors of this club.\
+
 9. Appoint standing and special committees and cooperate with chairpersons to effect regular functioning and reporting of such committees.
 10. See that regular elections are duly called, noticed and held.
 11. Ensure the club is operating in accordance with local laws.
@@ -89,7 +93,7 @@ Section 1. PRESIDENT.  The responsibilities for this position shall be as follow
 14. Be an active member of the district governor’s advisory committee of the zone in which this club is located.
 15. Serve as a mentor to vice presidents to ensure the continuance of effective leadership.&#x20;
 
-Section 2. IMMEDIATE PAST PRESIDENT.  They and the other past presidents shall serve as mentors to the club president and vice presidents and serve as the club LCIF coordinator unless another Lion is appointed to this position. &#x20;
+Section 2. IMMEDIATE PAST PRESIDENT. They and the other past presidents shall serve as mentors to the club president and vice presidents and serve as the club LCIF coordinator unless another Lion is appointed to this position. &#x20;
 
 Section 3. FIRST VICE PRESIDENT.  The responsibilities for this position shall be as follows:
 
@@ -101,7 +105,7 @@ Section 3. FIRST VICE PRESIDENT.  The responsibilities for this position shall b
 6. Identify potential leaders and encourage their development as future leaders.
 7. Encourage members to participate in leadership training offered by the district, multiple district and Lions Clubs International.
 8. Take a key role in membership retention and ensure organizational excellence by measuring member satisfaction and utilizing feedback to improve club operations.&#x20;
-9. Understand the club’s role in district activities and events. &#x20;
+9. Understand the club’s role in district activities and events.&#x20;
 10. Network with the officers of other clubs to gain ideas that may be applied to the club.
 11. Gain in-depth knowledge of district, multiple district initiatives that support leadership development, membership growth and the expansion of humanitarian service.
 12. Be an active member of the district governor’s advisory committee of the zone in which this club is located.&#x20;
@@ -116,8 +120,7 @@ Section 5. SECRETARY. They shall be under the supervision and direction of the p
 2. Submit to the district governor’s cabinet such reports as it may require.&#x20;
 3. Be an active member of the district governor’s advisory committee of the zone in which the club is located.
 4. Have custody and keep and maintain general records of this club, including records of minutes of club and board meetings; attendance; committee appointments; elections; member information, addresses and telephone numbers of members; members club accounts.
-5. Give bond for the faithful discharge of their office in such sum and with such surety as determined by the board of directors.
-6. Deliver, in a timely manner, at the conclusion of their term in office, the general records of the club to their successor in office.
+5. Deliver, in a timely manner, at the conclusion of their term in office, the general records of the club to their successor in office.
 
 Section 6. TREASURER. The responsibilities for this position shall be as follows:
 
@@ -126,9 +129,8 @@ Section 6. TREASURER. The responsibilities for this position shall be as follows
 3. Pay out monies in payment of club obligations only on authority given by the board of directors.&#x20;
 4. Have custody and keep and maintain general records of club receipts and disbursements.
 5. Prepare and submit monthly and semi-annual financial reports to the board of directors of this club.
-6. Give bond for the faithful discharge of their office in such sum and with such surety as determined by the board of directors.
-7. Deliver, in a timely manner, at the conclusion of their term in office, the financial accounts, funds and records of the club to their successor in office.
-8. Serves as chairperson for the finance committee.
+6. Deliver, in a timely manner, at the conclusion of their term in office, the financial accounts, funds and records of the club to their successor in office.
+7. Serves as chairperson for the finance committee.
 
 Section 7. MEMBERSHIP CHAIRPERSON. The responsibilities for this position shall be as follows:
 
@@ -153,60 +155,33 @@ Section 8. SERVICE CHAIRPERSON.  The responsibilities for this position shall be
 6. Serve as a club resource on current community needs by monitoring the service activities of other service clubs, developing community partnerships to expand service, and utilizing tools and resources offered by Lions Clubs International and Lions Clubs International Foundation.&#x20;
 7. Increase member satisfaction by encouraging participation and engagement in service projects.
 8. Collaborate with the club membership chairperson and other club committees to promote membership opportunities to non-Lions during service projects. &#x20;
-9. Attend the district governor’s advisory committee meeting of the zone in which this club is located when appropriate.&#x20;
+9. Attend the district governor’s advisory committee meeting of the zone in which this club is located when appropriate.
 
-Section 9. MARKETING CHAIRPERSON.&#x20;
+Section 9. MARKETING CHAIRPERSON. The responsibilities for this position may be as follows:&#x20;
 
-The responsibilities for this position may be as follows:&#x20;
+1. Develop and implement an annual marketing plan in collaboration with the club membership chair. The plan should consider internal and external audiences, including  club members, social media news media, supporters/sponsors and potential new members.
+2. Collaborate directly with the Global Action Team to stay connected to all membership, leadership, and service programs, projects, and events.
+3. Understand global brand guidelines and support proper use of brand materials in club events and service projects.
+4. Promote the work of the club on social media. Develop a social media post calendar to follow club service, community involvement, and membership activities.
+5. Work closely with the club membership chairperson to target and reach out to new potential club members.
+6. Develop club marketing and public relations talking points for club members. Use word of mouth marketing tactics to promote the club and recruit new members.
+7. Working with club leadership, submit marketing award application for consideration for the Lions International Marketing Award.
+8. Motivate members to be brand ambassadors. Encourage members to take photos, share on social media, wear brand apparel, and share Lions messages during community involvement opportunities.
+9. Publicize club activities, including service projects, fundraisers, donations, Lions Clubs International sponsored contests and other newsworthy accomplishments both internally and externally via the news media, social media, and other effective means.
+10. Assist the club president in communicating information from the district, multiple district and international headquarters with the club members.
+11. Attend the district governor’s advisory committee meeting of the zone in which this club is located when appropriate.
+12. Participate in meetings held by the district marketing chairperson
 
-(a) Develop and implement an annual marketing plan in collaboration with the club membership chair. The plan should consider internal and external audiences, including  club members, social media news media, supporters/sponsors and potential new members.
+Section 10. DEPUTY TREASURER. The responsibilities of the deputy treasurer shall include assisting the treasurer as needed and being a signer on all club bank accounts.
 
-(b) Collaborate directly with the Global Action Team to stay connected to all membership, leadership, and service programs, projects, and events.
-
-(c) Understand global brand guidelines and support proper use of brand materials in club events and service projects.
-
-(d) Promote the work of the club on social media. Develop a social media post calendar to follow club service, community involvement, and membership activities.
-
-(e) Work closely with the club membership chairperson to target and reach out to new potential club members.
-
-(f) Develop club marketing and public relations talking points for club members. Use word of mouth marketing tactics to promote the club and recruit new members.
-
-(g) Working with club leadership, submit marketing award application for consideration for the Lions International Marketing Award.
-
-(h) Motivate members to be brand ambassadors. Encourage members to take photos, share on social media, wear brand apparel, and share Lions messages during community involvement opportunities.
-
-(i)  Publicize club activities, including service projects, fundraisers, donations, Lions Clubs International sponsored contests and other newsworthy accomplishments both internally and externally via the news media, social media, and other effective means.
-
-(j) Assist the club president in communicating information from the district, multiple district and international headquarters with the club members.
-
-(k) Attend the district governor’s advisory committee meeting of the zone in which this club is located when appropriate.
-
-11. Participate in meetings held by the district marketing chairperson.
+Section 11. SAFETY OFFICER. The President shall appoint a club safety officer. They ensure that safety measures are in place by reviewing activities to identify potential hazards, completing the self-inspection checklist as available from Lions Clubs International, ensuring adequate supervision and acquiring proper insurance coverage. In the event of an incident, they gather and reports all significant information relevant to the incident to the insurance company in a timely manner.
 
 ### ARTICLE IV Board of Directors
 
-In addition to the club officers, the following chairpersons, if elected, may serve on the Board of Directors in addition to any other elected position that the club finds necessary.&#x20;
-
 \
+In addition to the club officers, the following positions, if elected, may serve on the Board of Directors in addition to any other elected position that the club finds necessary.&#x20;
 
-
-Section 1. PROGRAM COORDINATOR. They improve general meetings and keeps members informed of topics of importance to members by scheduling speakers and entertainment for general meetings based on the interests of club members. The program coordinator obtains permission for speakers from the president, informs the club secretary for inclusion on the agenda and informs the marketing chairperson to ensure effective communication.  They welcome the speaker on arrival and ensures proper seating and welcoming during the event. &#x20;
-
-\
-
-
-Section 2. CLUB LCIF COORDINATOR. They communicate the mission and success of LCIF and its importance to Lions Clubs International, implements LCIF development strategies within the club and collaborates with LCIF district coordinator to promote LCIF in the local area to ensure alignment with district goals. This position also collaborates with the club service chairperson and the Global Action Team to support club initiatives.
-
-\
-
-
-Section 3. SAFETY OFFICER (Optional). They ensure that safety measures are in place by reviewing activities to identify potential hazards, completing the self-inspection checklist as available from Lions Clubs International, ensuring adequate supervision and acquiring proper insurance coverage. In the event of an incident, they gather and reports all significant information relevant to the incident to the insurance company in a timely manner.
-
-Section 4. LION TAMER (Optional). The Lion tamer shall have charge of and be responsible for the property and paraphernalia of the club, including flags, banners, gong, gavel. They shall put each in its proper place before each meeting and return the same to the proper storage area after each meeting. They shall act as sergeant-at-arms at meetings, see that those present are properly seated, and distribute bulletins, favors and literature as required at club and board meetings. They shall give special attention to assure that each new member sits with a different group at each meeting so that they can become better acquainted.
-
-Section 5. TAIL TWISTER (Optional). They shall promote harmony, good fellowship, life and enthusiasm in the meetings through appropriate stunts and games and the judicious imposition of fines on club members. There shall be no ruling from their decision in imposing a fine, provided, however, that no fine shall exceed an amount fixed by the board of directors of this club, and no member shall be fined more than twice at any one meeting. The tail twister (optional) may not be fined except by the unanimous vote of all members present. All monies collected by the tail twister (optional) shall be immediately turned over to the treasurer and a receipt be given.
-
-Section 6. DIRECTOR. They provide additional oversight and approval for items placed before the board of directors. The term of office is two-years in duration.&#x20;
+Section 1. DIRECTOR. They provide additional oversight and approval for items placed before the board of directors. The term of office is two-years in duration.&#x20;
 
 ### ARTICLE V Committees
 
@@ -217,9 +192,12 @@ Section 1. STANDING COMMITTEES. The following standing committees may be appoint
 3. FINANCE COMMITTEE. Chaired by the club treasurer to establish a detailed budget for the approval of the club’s board of directors, ensure proper documentation and authorization of funds, arrange for the annual audit of club accounts, and ensure the delivery of all financial information to the successor committee.  &#x20;
 4. MEMBERSHIP COMMITTEE. Chaired by the membership chairperson to ensure membership growth by reaching new markets, actively recruiting members and ensuring member satisfaction. This committee also verifies the qualifications of potential members who are considered by the club’s Board of Directors and noted in item Article III, section 2, of the Club Constitution. The membership committee should include last year’s membership chairperson, vice membership chairperson and any club members interested in new member recruitment and/or member satisfaction.
 5. MARKETING COMMITTEE. Chaired by the club marketing chairperson, the marketing committee supports the development of a club marketing plan. With the support of the board of directors, the marketing committee ensures effective communication with the club and the public to build public awareness and improve visibility of the club’s activities in the community.
-6. SERVICE COMMITTEE. Chaired by the club service chairperson. Assists in developing service goals and action plans, identifying potential projects, guiding project planning and implementation and involving club members in meaningful service. Coordinates and ensures the effective leadership of service projects relating to the global service framework by supporting chairpersons assigned to each club service initiative. This committee may also be responsible for applying for relevant LCIF grants and developing community partnerships as approved by the club’s board of directors. &#x20;
+6. SERVICE COMMITTEE. Chaired by the club service chairperson. Assists in developing service goals and action plans, identifying potential projects, guiding project planning and implementation and involving club members in meaningful service. Coordinates and ensures the effective leadership of service projects relating to the global service framework by supporting chairpersons assigned to each club service initiative. This committee may also be responsible for applying for relevant LCIF grants and developing community partnerships as approved by the club’s board of directors. Sub-committees shall be formed for specific service projects, such as the Thanksgiving Community Dinner sub-committee and the Highway Clean-up Committee.
 7. INFORMATION TECHNOLOGY COMMITTEE. Assists members by providing access and/or support to online tools and communication as needed. May also provide support and/or serve as the club webmaster.&#x20;
 8. LEADERSHIP COMMITTEE. Chaired by the first vice president. Notifies club members of training opportunities offered by the district, multiple district and Lions Clubs International as well as non-Lion programs that could benefit club members.
+9. POOL COMMITTEE. Manages pool operations and hires or appoints the pool manager.  Plans and organizes the mowing of the lawns at the pool and tennis courts, and other maintenance needs of club projects.
+10. FUNDRAISING COMMITTEE. Works with the Finance Committee to plan and operate the club’s fundraisers. Sub-committees shall be formed for individual fundraisers, such as the Trip of the Month Raffle Committee, the Hunter Gun Raffle Committee, and the Community Calendar Committee.
+11. YOUTH COMMITTEE. Supports the club’s involvement in the club’s designated youth programs, Cub Scout Pack 51 and Scouts BSA Troops 51. Support the work of our Chartered Organization Representative, and support Cub Scout Pack 51 as the pipeline to the Troops. The Charter Organization Representative and Scout leaders are members.
 
 Section 2. SPECIAL COMMITTEES. From time to time, the president may appoint, with the approval of the board of directors, such special committees as may be necessary in their judgment or the judgment of the board of directors.
 
@@ -229,8 +207,9 @@ Section 4. COMMITTEE REPORTING. Each committee, through its chairperson, should 
 
 ### ARTICLE VI Meetings
 
-Section 1. BOARD OF DIRECTORS REGULAR MEETINGS. Regular meetings of the board of directors shall be held at such times and places as the board shall determine. (It is recommended that the board of directors meet at least once each month.)
-
+\
+Section 1. BOARD OF DIRECTORS REGULAR MEETINGS. Regular meetings of the board of directors shall be held at such times and places as the board shall determine.\
+\
 Section 2. BOARD OF DIRECTORS SPECIAL MEETINGS. Special meetings of the board of directors shall be held when called by the president, or when requested by three (3) or more members of the board of directors, at such time and place as the president shall determine.
 
 Section 3. REGULAR CLUB MEETINGS/EVENTS. Regular meetings of this club shall be held at times and places recommended by the board of directors, and approved by the club Except as otherwise specifically provided in this constitution and by-laws, notice of regular meetings shall be given in such manner as the board of directors deems proper to effectively communicate the meeting and/or event to all club members and encourage involvement. Regular club meetings may be replaced by service projects or other events as determined by the club members.  (It is recommended that the club host a meeting, event or service activity at least once a month.)&#x20;
@@ -241,30 +220,15 @@ Section 5. ANNUAL MEETING. An annual meeting of this club shall be held in conju
 
 Section 6. ALTERNATIVE MEETING FORMATS. Regular and/or special meetings of this club and/or board of directors may be held through the use of alternative meeting formats, such as teleconference and/or web conference upon initiation of the President or by any three (3) members of the board of directors.
 
-Section 7. CHARTER ANNIVERSARY. A charter night anniversary meeting of this club may be held each year, at which time special attention shall be devoted to the purposes and ethics of Lionism, and the history of this club.
+Section 7. CHARTER ANNIVERSARY. A charter night anniversary meeting of this club may be held each year, at which time special attention shall be devoted to the purposes and ethics of Lionism, and the history of this club. The club charter date is May 14, 1927.
 
-Section 8. QUORUM. The presence in person of a majority of the members in good standing shall be necessary for a quorum at any meeting of this club. Except as otherwise specifically provided, the act of a majority of the members present at any meeting shall be the act and decision of the entire club.
+Section 8. QUORUM. The presence in person of 40% of the members in good standing shall be necessary for a quorum at any meeting of this club. Except as otherwise specifically provided, the act of a majority of the members present at any meeting shall be the act and decision of the entire club.
 
 Section 9. METHOD OF BUSINESS TRANSACTIONS. This club may transact business by mail or electronic communications, provided that no such action shall be effective until approved in writing by two-thirds (2/3) of the entire number of the club. Such action may be initiated by the president or any three (3) members of said board.
 
 ### ARTICLE VII Fees and Dues
 
-AS APPROVED BY THE CLUB MEMBERS AT AN ANNUAL MEETING&#x20;
-
-Section 1. ENTRANCE FEE. Each new, reinstated and transfer member shall pay an entrance fee of $\_\_\_\_\_\_\_\_ which fee shall include the current association entrance fee and be collected before such member is enrolled as a member of this club and before the secretary may report such member to Lions Clubs International; provided, however, that the board of directors may elect to waive all or any part of the club portion of said entrance fee as to any member granted membership by transfer or reinstatement within twelve (12) months of termination of their prior Lions club membership.
-
-Section 2. ANNUAL DUES. Each member of this club shall pay the following indicated regular annual dues which dues shall include an amount to cover current international and district (single or sub- and multiple) dues (to defray the subscription price of LION Magazine, administrative and annual convention costs of the association and similar district costs) and shall be paid in advance at such times as the board of directors shall determine:
-
-* Active $ \_\_\_\_\_\_
-* Member-at-Large $ \_\_\_\_\_\_
-* Honorary $ \_\_\_\_\_\_
-* Privileged $ \_\_\_\_\_\_
-* Life $ \_\_\_\_\_\_
-* Associate $ \_\_\_\_\_\_
-* Affiliate $ \_\_\_\_\_\_\_
-* Discounted $ \_\_\_\_\_\_\_
-
-The treasurer of this club shall remit international and district (single or sub- and multiple) dues to the parties, and at the times, specified in the respective international and district (single or multiple) constitution and by-laws.
+Section 1. The treasurer of this club shall remit international and district (single or sub- and multiple) dues to the parties, and at the times, specified in the respective international and district (single or multiple) constitution and by-laws. The club shall fix the dues for the coming year during the Annual Meeting using the formula in Exhibit C.
 
 ### ARTICLE VIII Club Branch Administration
 
@@ -274,24 +238,11 @@ Section 2. LIAISON. The parent club shall designate a member of the parent club 
 
 Section 3. VOTING ENTITLEMENT. The members of the branch may vote on activities of the branch and are voting members of the parent club, when in attendance at meetings of the parent club. Branch members shall be calculated in parent club meeting quorum requirements only when present in person at the parent club meeting.&#x20;
 
-Section 4. FEES AND DUES. Each new, reinstated and transfer club branch member shall pay an entrance fee of $\_\_\_\_\_\_\_ which fee shall include the current association entrance fee. Club branches may charge an entrance fee separate from that of the parent club and branch members are not required to pay the parent club entrance fee.&#x20;
-
-Each member of the branch shall pay the following indicated regular annual dues which dues shall include an amount to cover current international and district (single or sub- and multiple) dues (to defray the subscription price of LION Magazine, administrative and annual convention costs of the association and similar district costs) and shall be paid in advance at such times as the board of directors of the parent club shall determine:
-
-* Active $ \_\_\_\_\_\_
-* Member-at-Large $ \_\_\_\_\_\_
-* Honorary $ \_\_\_\_\_\_
-* Privileged $ \_\_\_\_\_\_
-* Life $ \_\_\_\_\_\_
-* Associate $ \_\_\_\_\_\_
-* Affiliate $ \_\_\_\_\_\_\_
-* Discounted $ \_\_\_\_\_\_\_
-
-The treasurer of the branch shall remit international and district (single or sub- and multiple) dues to the parent club treasurer, and at the times, specified in the respective international and district (single or multiple) constitution and by-laws. Club branches are not required to pay club dues to the parent club.
+Section 4. FEES AND DUES. The treasurer of the branch shall remit international and district (single or sub- and multiple) dues to the parent club treasurer, and at the times, specified in the respective international and district (single or multiple) constitution and by-laws. Club branches are not required to pay club dues to the parent club.
 
 ### ARTICLE IX Miscellaneous
 
-Section 1. FISCAL YEAR. The fiscal year of this club shall be July 1 through June 30.
+Section 1. FISCAL YEAR. The fiscal year of this club shall be January 1 though December 31.
 
 Section 2. PARLIAMENTARY PRACTICES. Except as otherwise specifically provided in this constitution and by-laws, all questions of order or procedure with respect to any meeting or action of this club, its board of directors or any committee appointed hereunder shall be determined in accordance with ROBERT’S RULES OF ORDER, NEWLY REVISED, as revised from time to time.
 
@@ -311,4 +262,4 @@ All disputes or claims arising between any member or members, or a former member
 
 Section 1. AMENDING PROCEDURE. These by-laws may be altered, amended or repealed at any regular or special meeting of this club at which a quorum is present, by the vote of a majority of the members present in person and voting.
 
-Section 2. NOTICE.  No amendment shall be put to vote, unless written notice, stating the proposed amendment shall have been published to the member through regular post or electronic means, or delivered personally to each member of this club at least fourteen (14) calendar days prior to the meeting at which the vote on the proposed amendment is to be taken.\
+Section 2. NOTICE.  No amendment shall be put to vote, unless written notice, stating the proposed amendment shall have been published to the member through regular post or electronic means, or delivered personally to each member of this club at least fourteen (14) calendar days prior to the meeting at which the vote on the proposed amendment is to be taken.
