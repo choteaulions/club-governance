@@ -19,8 +19,8 @@ Our 2024 officers are:
 * [Treasurer](https://app.gitbook.com/s/TLv6bYyHneMPHZmgJ8Nk/officers-handbooks/officers/treasurer): Steve Dogiakos
 * [Deputy Treasurer](https://app.gitbook.com/s/TLv6bYyHneMPHZmgJ8Nk/officers-handbooks/officers/treasurer/deputy-treasurer): Greg Maurer
 * Membership Chair:
-* Service Chiar:
-* Marketing Chiar:
+* Service Chair:
+* Marketing Chair:
 * Program Coordinator:
 * Club LCIF Coordinator:
 * Safety Officer:
