@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Articles of Incorporation](README.md)
+* [Club Info](README.md)
+* [Articles of Incorporation](<README (1).md>)
 * [Club Constitution](club-constitution.md)
 * [Bylaws](bylaws/README.md)
   * [Bylaws Addenda](bylaws/bylaws-addenda.md)
