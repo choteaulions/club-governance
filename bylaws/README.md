@@ -43,7 +43,7 @@ Section 8. ATTENDANCE AND PARTICIPATION. The club shall encourage regular partic
 
 The officers of this club, excluding the immediate past president, shall be elected as follows:
 
-Section 1. ANNUAL ELECTION. Subject to the provisions of Sections 7 and 8 of this Article, all officers and members of the board, other than directors, shall be elected annually and shall take office on July 1st, and shall hold office for one year from that date, or until their successors shall have been elected and qualified.  The Secretary shall promptly report the newly elected officers to the International Office within 15 days of the election.
+Section 1. BIENNIAL ELECTION. Subject to the provisions of Sections 7 and 8 of this Article, all officers and members of the board, other than directors, shall be elected biennially and shall take office on July 1st, and shall hold office for one year from that date, or until their successors shall have been elected and qualified.  The Secretary shall promptly report the newly elected officers to the International Office within 15 days of the election.
 
 Section 2. DIRECTORS ELECTION. One-half of the directors shall be elected biennially and shall take office on the July 1st next following their election, and shall hold office for four (4) years from that time, or until their successors shall have been elected and qualified, with the exception that at the first election held after the adoption of this constitution and by-laws, one-half of the directors shall be elected for two year terms and the other one-half of the directors shall be elected for one year terms.
 
