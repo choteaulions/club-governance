@@ -1,8 +1,5 @@
 ---
-description: >-
-  03/26/2024 This is the standard club constitution that serves as the defacto
-  constitution for the club. The amended constitution will be approved at the
-  04/2024 annual meeting.
+description: Approved 05/06/2024
 ---
 
 # Club Constitution
